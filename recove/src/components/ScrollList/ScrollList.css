@@ -1,0 +1,17 @@
+    .root {
+    width: '100%';
+    max-width: '60%';
+    background-color: 'green';
+    position: 'relative';
+    overflow: 'auto';
+    max-height: 300;
+    }
+
+    .listSection {
+        background-color: 'inherit';
+    }
+
+    .ulSection {
+        background-color: 'inherit';
+        padding: 0;
+    }
